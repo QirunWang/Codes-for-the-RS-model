@@ -1,6 +1,7 @@
-# Codes for *"*Searching the mechanisms of mRNA buffering: the releasing-shuttling model*"*
+# Codes for *"*Homeostasis of mRNA concentrations through coupling transcription, export, and degradation*"*
+### Article: https://www.cell.com/iscience/fulltext/S2589-0042(24)01756-5
 Qirun Wang & Jie Lin
-202308
+202409
 #
 
 
